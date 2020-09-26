@@ -1,1 +1,1 @@
-A beginner's notes for the [Up-down model code](https://github.com/peteanderson80/bottom-up-attention)
+A beginner's notes for the [Up-down model code](https://github.com/peteanderson80/bottom-up-attention) which is described in [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html)
